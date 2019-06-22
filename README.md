@@ -1,7 +1,7 @@
 # Overview
 This repo hosts the Python code employed for the following paper presentaed at [EAAI'19](https://aaai.org/Conferences/AAAI-19/eaai-19/eaai-19-call/). EAAI is a symbosium focused on AI education colocated with [AAAI 2019](https://aaai.org/Conferences/AAAI-19/):
 
-Machine Learning Based Heuristic Search Algorithms to Solve Birds of a Feather Card Game. Bryon Kucharski, Azad Deihim, and Mehmet Ergezer. The Ninth Symposium on Educational Advances in Artificial Intelligence (EAAI-19). Honolulu, Hawaii.
+Bryon Kucharski, Azad Deihim, and Mehmet Ergezer. "Machine Learning Based Heuristic Search Algorithms to Solve Birds of a Feather Card Game." *The Ninth Symposium on Educational Advances in Artificial Intelligence (EAAI-19).* Honolulu, Hawaii.
 
 ## Birds Of a Feather
 A research challenge based on a solitaire-type game called [Birds of a Feather](http://cs.gettysburg.edu/~tneller/puzzles/boaf/birds-of-a-feather-challenge.pdf) developed by [Professor Todd Neller](http://cs.gettysburg.edu/~tneller/).
